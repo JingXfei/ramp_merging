@@ -1,0 +1,8 @@
+<routes>
+<route id="main" edges="left_in merged"/>
+<route id="ramp" edges="ramp_in merged"/>
+<flow id="f_main_hv" type="hv" route="main" vehsPerHour="0.07199999999999207" begin="0.15177424446904703" departSpeed="max" departPos="base"/>
+<flow id="f_main_cav" type="cav" route="main" vehsPerHour="719.928" begin="0.24001570214264473" departSpeed="max" departPos="base"/>
+<flow id="f_ramp_hv" type="hv" route="ramp" vehsPerHour="0.07199999999999207" begin="1.3938222358276464" departSpeed="max" departPos="base"/>
+<flow id="f_ramp_cav" type="cav" route="ramp" vehsPerHour="719.928" begin="1.6786406508407816" departSpeed="max" departPos="base"/>
+</routes>

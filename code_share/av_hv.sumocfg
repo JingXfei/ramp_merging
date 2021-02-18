@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+<input>
+<net-file value="ramp.net.xml"/>
+<route-files value="av_hv.rou.xml"/>
+<additional-files value="HV.add.xml,CAV.add.xml"/>
+</input>
+<output>
+<summary-output value="./summary/summary_87_1613632938.xml"/></output><time>
+<begin value="0"/>
+<end value="1800"/>
+</time>
+</configuration>

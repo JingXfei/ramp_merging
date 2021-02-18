@@ -1,0 +1,11 @@
+length; normal(4.9,0.2); [3.5,5.5]
+accel; normal(1.4976,0.0555); [0,]
+decel; normal(4.0522,0.9979); [0,]
+sigma; normal(0.7954,0.1615); [0,1]
+tau; gamma(33.6166,40.6236); [0,]
+minGap; normal(1.5401,0.2188); [0,]
+speedFactor; normal(1.2081,0.1425); [0,]
+color; green
+vClass; taxi
+carFollowModel; IDM
+maxSpeed; 30
